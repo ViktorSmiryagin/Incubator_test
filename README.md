@@ -35,8 +35,8 @@
 
 ### Repositories:
 
-https://github.com/Incubator24/Incubatogram24.git
-https://github.com/InctagramTeam/inctagram-front
+* https://github.com/Incubator24/Incubatogram24.git
+* https://github.com/InctagramTeam/inctagram-front
 
 ### Production link:
 
