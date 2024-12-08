@@ -32,3 +32,12 @@
 * Работа в межфункциональной команде.
 * Систематизация данных и отчетности с использованием современных инструментов (Qase.io, Jira).
 * Запуск и проверка работы приложения через локальные команды.
+
+### Repositories:
+
+https://github.com/Incubator24/Incubatogram24.git
+https://github.com/InctagramTeam/inctagram-front
+
+### Production link:
+
+https://incubatogram.org
